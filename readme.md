@@ -1,0 +1,1 @@
+<h1>Simple API for fetching movies made with ReactJS. <h1>
